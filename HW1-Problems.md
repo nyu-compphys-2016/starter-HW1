@@ -6,4 +6,5 @@
 
 * Write python programs to solve both problems. The text of the problems are included in [book-excerpt.pdf](book-excerpt.pdf) and available in the [book website](http://www-personal.umich.edu/~mejn/cp/index.html). Data for problem 3.8 is available on the website, and included in this repo in [millikan.txt](millikan.txt).
 * Include the results (the Mandelbrot Set image, plot of Milikan data with least-squares fit, and numerical results of the fit) in a SHORT LaTeX report (<2 pages).
+* Include your python code and your report in this repository.
 
